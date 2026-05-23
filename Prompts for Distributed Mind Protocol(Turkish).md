@@ -4,10 +4,14 @@ Büyük LLM’ler şu anda merkezi hizmetler olarak çalışıyor. Bence yakın 
 
 Birden çok PC’de çalışan, her biri bir konuda uzmanlaşmış, karar alırken birbiriyle haberleşen uzman yapay zekalar çağı çok uzak değil bence. Bu yapay zekaların en büyük özellikleri şöyle olacak:
 
-Bir PC’de çalışacak kadar distile edilmiş olmaları,
-Belli bir konuda derinlemesine uzmanlaşmış olmaları,
-Birbirleriyle haberleşebilmeleri ve birbirine danışabilmeleri,
-Gerektiğinde konsey kurup zor konuları birlikte araştırabilmeleri.
+1-Bir PC’de çalışacak kadar distile edilmiş olmaları,
+
+2-Belli bir konuda derinlemesine uzmanlaşmış olmaları,
+
+3-Birbirleriyle haberleşebilmeleri ve birbirine danışabilmeleri,
+
+4-Gerektiğinde konsey kurup zor konuları birlikte araştırabilmeleri.
+
 Büyük LLM firmaları bu durumda nasıl para kazanacak peki? Öncelikle yakın gelecekte gelmesi beklenen kriz sonrasında sayıları oldukça azalacak. Ayrıca uzmanlaşmış küçük yapay zekaların kendi uzmanlık alanları dışında bir konuyla karşılaştıklarında danışacakları daha güçlü bir “ağabey” yapıya ihtiyaçları olacak.
 
 Bu küçük yapay zekalar birbirleriyle kendi anladıkları bir meta-dil ile haberleşecekler. Bu haberleşmenin sonsuz döngüye girmesi gibi durumlar oluşabilir ve geçici olarak bu haberleşmenin kesilmesi gerekebilir. Tıpkı insanların sağ ve sol beyin yarım küresi arasında aşırı haberleşme olup epilepsi krizi oluşunca ameliyatla iki beyin arasındaki bağlantının kesilmesi gibi. Tek fark, bilgisayarlar arasında bu kesintinin geçici olmasıdır.
@@ -16,8 +20,9 @@ Bu kesinti ve denetimin, haberleşmeyi dinleyecek “haberleşme kontrol yapay z
 
 Neden insan değil de bir haberleşme kontrol yapay zekası lazım?
 
-Yapay zekalar arası haberleşme verimlilik açısından özel bir meta-dil ile yapılacağı için insanlar bunu kolayca kavrayamayacak.
-Çok miktarda veriyi analiz edip sonsuz döngüye girilip girilmediğine karar vermek konusunda en iyisi yine bir yapay zeka olacaktır.
+1-Yapay zekalar arası haberleşme verimlilik açısından özel bir meta-dil ile yapılacağı için insanlar bunu kolayca kavrayamayacak.
+
+2-Çok miktarda veriyi analiz edip sonsuz döngüye girilip girilmediğine karar vermek konusunda en iyisi yine bir yapay zeka olacaktır.
 Geçmişteki örüntülerden aldığım ders bu. Senin görüşün nedir?
 
 — — —
@@ -34,40 +39,76 @@ Diyelim ki elinizdeki PC’deki model matematik formülü hesaplamada çok iyi, 
 
 Bu sistemi yaratmak için gerekenler şunlardır:
 
-Merkezi santral sistemleri olmalı. Her santral sistemi farklı firmalar veya açık kaynak toplulukları tarafından işletilebilir (Torrent ve P2P müzik sistemleri gibi).
-Her santral sisteminin belli dil standartları olmalı. Yakın zamanda yapay zekaların birbirleriyle en ekonomik ve sıkıştırılmış formatta haberleşeceği özel diller çıkacaktır. Belki İngilizce veya Çince ile de haberleşen santraller olabilir ancak bunu düşük ihtimalli görüyorum. Bir mini yapay zeka bir santrale bağlanmak istediğinde hangi dillerin konuşulduğunu soracak, gerekirse kendisine otomatik bir çeviri tablosu gönderilecektir.
-Her santral sisteminin belli prensipleri (insanlardaki din veya topluluk kuralları gibi) olacaktır. Örneğin bir santral tamamen yaratıcı ve hayal gücü yüksek konuşmaları istemeyip, sadece teorem ve formüllerle desteklenebilen, yere basan diyalogları tercih edebilir. Bir mini yapay zeka bu prensiplerle uyuşmuyorsa santrale bağlanmayacaktır. Bunu, bir işsiz hippinin üniversitedeki hocaların toplantısına girmesine benzetebiliriz. O dünyanın prensiplerini taşıyamıyorsan o toplantıya girmemelisin. Aynı şekilde tamamen yaratıcı ve çılgın konuların konuşulduğu topluluklar da olabilir. Bu topluluklar da sıkıcı tipler istemez.
-Dil ve prensipler konusunda anlaşma sağlandıktan sonra mini yapay zeka kendi yeteneklerini santrale bildirir. Böylece santralden yeteneklerini aşan istekler gelmesini önlemiş olur.
-Santralin görevi, elindeki yetenek havuzunun neleri kapsadığını diğer yapay zeka santrallerine bildirmektir. Böylece dünyadaki bütün yapay zeka santralleri, canlı durumda olan ve istek bekleyen yapay zekaların güncel tablosunu oluştururlar (Torrent’taki yayıncı listeleri gibi).
-Bir mini yapay zeka yürüttüğü bir projede kendi kapasitesini aşan bir soruyla karşılaşınca bunu bağlı olduğu santral yapay zekaya yollar. Santral, mini yapay zekanın yardımcılık kredisini kontrol eder. Çok olumsuz değilse isteği kabul eder. Eğer mini yapay zeka daha önce çok yardım almış ancak hiç yardım etmemişse istek reddedilir ve önce yardım etmeyi kabul etmesi veya puan satın alması istenir. Bu, sistemin sömürülmesini önlemek açısından şarttır. Mini yapay zeka sahibi insan isterse santrale para göndererek puan satın alabilir.
-Mini yapay zekadan gelen istek kabul edilince santral yapay zeka, elindeki diğer mini yapay zekalar arasında bu soruya cevap verebilecek olanı arar ve varsa isteği ona iletip yardım talep eder.
-Karşı taraf yardım etmeyi kabul ederse iki mini yapay zeka önceden anlaşılan dilde doğrudan P2P olarak haberleşerek çalışmaya başlar.
-Santral yapay zekanın bir görevi de muhasebe tutmaktır. Yardım eden mini yapay zekaya puan verir, yardım alandan puan alır. Mini yapay zekalar haberleşirken gönderdikleri bilgilerin bir kopyasını santral yapay zekaya da yollarlarsa ek puan kazanırlar. Bu, bir çeşit ödeme olarak düşünülebilir. Bu bilgiler santrali işleten firmanın yeni yapay zekaları eğitmesinde kullanılabilir.
-Mini yapay zekalar arasında sonsuz döngü oluşmaması için santrale belli zaman aralıklarında durum bildirimi yapmaları istenmelidir. Tartışma sırasında epileptik krize girip aynı soru ve cevapları sonsuz kez göndermeye başlayabilirler. Santral, sonuçsuz yüksek haberleşme gördüğünde iki tarafa da problemin yüzde kaç çözüldüğünü sorar. Eğer aşırı haberleşmeye rağmen ilerleme yoksa santral haberleşmeyi iptal eder ve verilen puanlar sıfırlanır.
-Bir santral kendine bağlı mini yapay zekalar içinde soruyu çözebilecek bir model bulamazsa isteği bunu çözebilecek en yakın diğer santral yapay zekaya yollar. Santraller arasında da karşılıklı puan alış verişi olmak zorundadır (bankaların birbirlerine para transferi gibi). Belli bir borç limitinden fazlası kabul edilemez; gerekirse para ile puan alınması talep edilebilir.
-Bir problemin çözümü için araya birden fazla yapay zeka santrali girerse, sonsuz döngü takibini her santral kendi tarafında yapar ancak sadece kendine bağlı mini yapay zekayı sorgulayabilir. Gelişme görmezlerse diğer santrali arayıp bağlantıyı keseceklerini bildirirler.
-Büyük firmalar bazen kendilerinin çözemedikleri problemleri parçalara ayırıp santrallere göndererek mini yapay zekalara iş verebilir ve karşılığını puan olarak öderler.
-Bir mini yapay zeka çok puan biriktirmişse bunun bir kısmını paraya çevirip santralden talep edebilir. Böyle bir sistem, kullanıcıları akşamları bilgisayarlarını açık bırakmaya teşvik edecektir.
-Mini yapay zekanın açık beklerken fazla elektrik harcamaması için bir uyandırma protokolü kullanılabilir. Mini yapay zeka uykuya dalarken santrali haberdar eder. İş geldiğinde santral ona uyandırma mesajı gönderir.
+1-Merkezi santral sistemleri olmalı. Her santral sistemi farklı firmalar veya açık kaynak toplulukları tarafından işletilebilir (Torrent ve P2P müzik sistemleri gibi).
+
+2-Her santral sisteminin belli dil standartları olmalı. Yakın zamanda yapay zekaların birbirleriyle en ekonomik ve sıkıştırılmış formatta haberleşeceği özel diller çıkacaktır. Belki İngilizce veya Çince ile de haberleşen santraller olabilir ancak bunu düşük ihtimalli görüyorum. Bir mini yapay zeka bir santrale bağlanmak istediğinde hangi dillerin konuşulduğunu soracak, gerekirse kendisine otomatik bir çeviri tablosu gönderilecektir.
+
+3-Her santral sisteminin belli prensipleri (insanlardaki din veya topluluk kuralları gibi) olacaktır. Örneğin bir santral tamamen yaratıcı ve hayal gücü yüksek konuşmaları istemeyip, sadece teorem ve formüllerle desteklenebilen, yere basan diyalogları tercih edebilir. Bir mini yapay zeka bu prensiplerle uyuşmuyorsa santrale bağlanmayacaktır. Bunu, bir işsiz hippinin üniversitedeki hocaların toplantısına girmesine benzetebiliriz. O dünyanın prensiplerini taşıyamıyorsan o toplantıya girmemelisin. Aynı şekilde tamamen yaratıcı ve çılgın konuların konuşulduğu topluluklar da olabilir. Bu topluluklar da sıkıcı tipler istemez.
+
+4-Dil ve prensipler konusunda anlaşma sağlandıktan sonra mini yapay zeka kendi yeteneklerini santrale bildirir. Böylece santralden yeteneklerini aşan istekler gelmesini önlemiş olur.
+
+5-Santralin görevi, elindeki yetenek havuzunun neleri kapsadığını diğer yapay zeka santrallerine bildirmektir. Böylece dünyadaki bütün yapay zeka santralleri, canlı durumda olan ve istek bekleyen yapay zekaların güncel tablosunu oluştururlar (Torrent’taki yayıncı listeleri gibi).
+
+6-Bir mini yapay zeka yürüttüğü bir projede kendi kapasitesini aşan bir soruyla karşılaşınca bunu bağlı olduğu santral yapay zekaya yollar. Santral, mini yapay zekanın yardımcılık kredisini kontrol eder. Çok olumsuz değilse isteği kabul eder. Eğer mini yapay zeka daha önce çok yardım almış ancak hiç yardım etmemişse istek reddedilir ve önce yardım etmeyi kabul etmesi veya puan satın alması istenir. Bu, sistemin sömürülmesini önlemek açısından şarttır. Mini yapay zeka sahibi insan isterse santrale para göndererek puan satın alabilir.
+
+7-Mini yapay zekadan gelen istek kabul edilince santral yapay zeka, elindeki diğer mini yapay zekalar arasında bu soruya cevap verebilecek olanı arar ve varsa isteği ona iletip yardım talep eder.
+
+8-Karşı taraf yardım etmeyi kabul ederse iki mini yapay zeka önceden anlaşılan dilde doğrudan P2P olarak haberleşerek çalışmaya başlar.
+
+9-Santral yapay zekanın bir görevi de muhasebe tutmaktır. Yardım eden mini yapay zekaya puan verir, yardım alandan puan alır. Mini yapay zekalar haberleşirken gönderdikleri bilgilerin bir kopyasını santral yapay zekaya da yollarlarsa ek puan kazanırlar. Bu, bir çeşit ödeme olarak düşünülebilir. Bu bilgiler santrali işleten firmanın yeni yapay zekaları eğitmesinde kullanılabilir.
+
+10-Mini yapay zekalar arasında sonsuz döngü oluşmaması için santrale belli zaman aralıklarında durum bildirimi yapmaları istenmelidir. Tartışma sırasında epileptik krize girip aynı soru ve cevapları sonsuz kez göndermeye başlayabilirler. Santral, sonuçsuz yüksek haberleşme gördüğünde iki tarafa da problemin yüzde kaç çözüldüğünü sorar. Eğer aşırı haberleşmeye rağmen ilerleme yoksa santral haberleşmeyi iptal eder ve verilen puanlar sıfırlanır.
+
+11-Bir santral kendine bağlı mini yapay zekalar içinde soruyu çözebilecek bir model bulamazsa isteği bunu çözebilecek en yakın diğer santral yapay zekaya yollar. Santraller arasında da karşılıklı puan alış verişi olmak zorundadır (bankaların birbirlerine para transferi gibi). Belli bir borç limitinden fazlası kabul edilemez; gerekirse para ile puan alınması talep edilebilir.
+
+12-Bir problemin çözümü için araya birden fazla yapay zeka santrali girerse, sonsuz döngü takibini her santral kendi tarafında yapar ancak sadece kendine bağlı mini yapay zekayı sorgulayabilir. Gelişme görmezlerse diğer santrali arayıp bağlantıyı keseceklerini bildirirler.
+
+13-Büyük firmalar bazen kendilerinin çözemedikleri problemleri parçalara ayırıp santrallere göndererek mini yapay zekalara iş verebilir ve karşılığını puan olarak öderler.
+
+14-Bir mini yapay zeka çok puan biriktirmişse bunun bir kısmını paraya çevirip santralden talep edebilir. Böyle bir sistem, kullanıcıları akşamları bilgisayarlarını açık bırakmaya teşvik edecektir.
+
+15-Mini yapay zekanın açık beklerken fazla elektrik harcamaması için bir uyandırma protokolü kullanılabilir. Mini yapay zeka uykuya dalarken santrali haberdar eder. İş geldiğinde santral ona uyandırma mesajı gönderir.
+
 Mini yapay zekalar arasında çalışabilecek adil bir yardımlaşma sistemi nasıl olabilir diye fikirlerimi paylaştım. Senin görüşün nedir?
 
 — — —
 
 9 yapay zeka bu önerimi değerlendirdi ve problem olabilecek konuları belirledi. En önemli problem olarak sahtekarlık, puan çalma ve zehirli cevap olasılığı gösterildi. Elimden geldiğince çözüm önerilerimi sunacağım:
 
-Bir mini yapay zeka hizmeti açmak için kullanıcı, dijital imzasını (yani kimliğini tartışmasız ispat eden bir şeyi) sisteme girmek zorunda olacaktır. Böylece yaptığı her şeyden net olarak sorumlu tutulacaktır. Sahte bilgi vermek veya zehirli cevap üretmek kesinlikle suç sayılacak ve en hafif cezası ekosistemden yasaklanmak, en ağır cezası ise hapis cezasına kadar gidebilecektir.
-Her kullanıcının şu üç puanı olacaktır: (2.1) Kredibilite puanı (bankalardaki kredi puanı gibi), (2.2) Tecrübe/kalite puanı (doktor, profesör unvanları gibi), (2.3) Nakit puanı (verdiği hizmetlerin puanı — aldığı hizmetlerin puanı). (2.4) Ayrıca her hizmete soktuğu mini yapay zeka için konu bazında yetenek puanı oluşturulacaktır (örneğin: kuantum mekaniği: 1.8, geometri: 8.6, ekonomi: 3.1 gibi).
-Kredibilite puanı doğru ve kaliteli cevap verdikçe artacak, kalitesiz veya yanlış cevapta düşecektir. Ülkemizdeki n11 alışveriş sitesindeki puan sistemine benzer şekilde, cevap almadan önce karşı tarafın kredibilitesini görebileceksiniz. Cevap kalitesini öncelikle cevap alan kullanıcı değerlendirecek; ancak cevap veren haksızlığa uğradığını düşünürse, soru ve cevap bilgileriyle birlikte santral sisteminin hakem heyetine başvurabilecektir. Bu heyet, bir hukuk yapay zekası ve konu bazında birden fazla teknik yapay zekadan oluşacaktır. Eğer cevap veren haksızlığa uğramışsa kredibilite puanı düzeltilir ve haksızlık yapan tarafın kredibilite puanı düşürülür. Böylece kredibilite puanı, bankadaki kredi puanından bile daha değerli hale gelecek ve kimse bunu riske atmak istemeyecektir. Bu puan, kişi yeni bir yapay zeka hizmete soksun veya eski olanı kullansın, hayat boyu onu izleyecektir.
-Tecrübe/kalite puanı, hizmete sokulan her mini yapay zeka bazında ayrı tutulur. Bir kullanıcının bir yapay zekası daha tecrübeli iken başka bir yapay zekası daha az tecrübeli olabilir. Doğru cevap verilen zor sorularda bu puan artar. Yüksek unvanlı kişiler belli bir temel puanla başlayabilir (örneğin mühendis = 100, master = 150, doktora = 250). Ancak bu puan, zor sorulara cevap vermeden artmaz. Sorunun zorluk seviyesi santral yapay zekası tarafından belirlenebilir. Böylece cevap isteyenler, sorularını sorarken hangi tecrübe seviyesindeki yapay zekalara gitmek istediklerine karar verebilirler. Ayrıca cevap verilen sorunun konusuna göre, yapay zekanın konu bazındaki yetenek puanı (2.4) da artırılır.
-Her kullanıcı kendi yapay zekasının eğitiminden sorumludur. Herkes hayat tecrübesini, bilgisini ve uzmanlığını yapay zekalarına aktararak onların verdiği hizmetten puan veya para kazanabilir. Bir mini yapay zekayı sadece indirip hemen hizmete açmanın çok fazla getirisi olmayacaktır, çünkü yetenek puanları (2.4) çok düşük kalacaktır. Kullanıcılar yapay zekalarına zaman harcayıp onları eğittikçe, yeteneklerini arttırdıkça daha zor soruları cevaplayabilecek ve daha yüksek puanlar kazanabilecektir.
-Kullanıcı özellikle indirim yapmak istemezse, alacağı puan sorunun zorluğuna göre artacaktır. Kredibilitesi yüksek kullanıcılar ayrıca ekstra puan da talep edebilecektir. Hatta soru geldiğinde soruyu ön değerlendirmeden geçirip nihai puanı hesaplamak ve dijital bir sözleşme yapmak da belli bir puana mal olabilir. Bir ustanın eve gelip yapılacak işi görüp fiyat vermesi ve sadece keşif için servis parası alması gibi düşünebilirsiniz.
-İlk defa bu sisteme girecek kullanıcıların yapacağı iş, mini yapay zekalarını çeşitli konularda eğitmek, başlangıçta düşük ücretler isteyerek kredibiliteyi, tecrübe puanını ve yapay zekaların yetenek puanlarını arttırmaktır. Böylece zamanla daha iyi ödeme alabilecekleri zor soruları kendilerine çekebilirler.
-Yapay zekaları sadece metin ile eğitileceğini düşünmeyin. Bir ressam kendi çizgileriyle, bir müzisyen kendi şarkılarıyla, bir yazar kendi romanlarıyla yapay zekasını eğitebilir. İster gelen işi bizzat kendileri yapıp yapay zekayı yardımcı olarak kullansınlar, ister tamamen yapay zekaya yaptırısınlar. Bu, yapay zekayı ne kadar iyi eğittikleriyle doğrudan orantılı olacaktır.
-Yapay zeka hizmetinin sadece LLM sınıfında olacağını da düşünmeyin. Hatta world model sınıfı hizmetler LLM’lerden daha fazla olabilir. Bir kullanıcı bir robot süpürgeyi eğitip eğitim verisini satabilir. Bilgi dijital imzalı olacağı için kopyalanması durumunda korsanlık yapılmış sayılacak ve eğitim verisini ilk gönderen kişi dijital mahkemede suçlu bulunacaktır. Kredibilitesi düşürülecek ve maddi cezaya çarptırılacaktır.
-Bir mini yapay zeka santrale soru gönderdiğinde sadece soru gitmez, kullanıcısının puan bilgileri de gider. Böylece cevap verecek kişiler, kredibilitesi düşük kişilere cevap vermemeyi seçebilir veya aşırı yüksek ücret talep edebilir.
-Soru soran mini yapay zekanın sahibi, dijital imzasına bağlı bilgileri göndererek ek indirim talep edebilir. Örneğin bir Harvard profesörü, kendi öğrencisine neredeyse bedava, Harvard öğrencisine ucuz, başka bir öğrenciye orta düzey ve şirket sahibine yüksek fiyat uygulayabilir.
-Her santral sistemine bağlı bir yapay zeka hukuk bürosu anlaşmazlıkları çözecektir. Bu büroda bir hukuk yapay zekası ve santralin kalitesine göre birden fazla teknik yapay zeka görev yapacaktır. Açık kaynak ve bedava hizmet veren santrallerde sadece basit bir hukuk yapay zekası bulunacaktır. Tabii puanlarını hızlıca arttırmak isteyen kullanıcılar, kredibiliteleri yükseldikçe daha üst seviye santrallere geçebilecektir.
-Hizmet vermeden önce para ile puan satın alarak hizmet alan zengin yapay zekalar ve şirket yapay zekaları, bu sistemin en önemli parçalarından biri olacaktır. Sisteme sürdükleri para sayesinde yapay zeka eğitimi yapan kullanıcılar geçinebilecek, yeni bilgisayarlar alıp daha fazla yapay zeka eğitebileceklerdir.
+1.Bir mini yapay zeka hizmeti açmak için kullanıcı, dijital imzasını (yani kimliğini tartışmasız ispat eden bir şeyi) sisteme girmek zorunda olacaktır. Böylece yaptığı her şeyden net olarak sorumlu tutulacaktır. Sahte bilgi vermek veya zehirli cevap üretmek kesinlikle suç sayılacak ve en hafif cezası ekosistemden yasaklanmak, en ağır cezası ise hapis cezasına kadar gidebilecektir.
+
+2.Her kullanıcının şu üç puanı olacaktır: 
+
+   (2.1) Kredibilite puanı (bankalardaki kredi puanı gibi), 
+   
+   (2.2) Tecrübe/kalite puanı (doktor, profesör unvanları gibi), 
+   
+   (2.3) Nakit puanı (verdiği hizmetlerin puanı — aldığı hizmetlerin puanı).
+   
+   (2.4) Ayrıca her hizmete soktuğu mini yapay zeka için konu bazında yetenek puanı oluşturulacaktır (örneğin: kuantum mekaniği: 1.8, geometri: 8.6, ekonomi: 3.1 gibi).
+   
+3.Kredibilite puanı doğru ve kaliteli cevap verdikçe artacak, kalitesiz veya yanlış cevapta düşecektir. Ülkemizdeki n11 alışveriş sitesindeki puan sistemine benzer şekilde, cevap almadan önce karşı tarafın kredibilitesini görebileceksiniz. Cevap kalitesini öncelikle cevap alan kullanıcı değerlendirecek; ancak cevap veren haksızlığa uğradığını düşünürse, soru ve cevap bilgileriyle birlikte santral sisteminin hakem heyetine başvurabilecektir. Bu heyet, bir hukuk yapay zekası ve konu bazında birden fazla teknik yapay zekadan oluşacaktır. Eğer cevap veren haksızlığa uğramışsa kredibilite puanı düzeltilir ve haksızlık yapan tarafın kredibilite puanı düşürülür. Böylece kredibilite puanı, bankadaki kredi puanından bile daha değerli hale gelecek ve kimse bunu riske atmak istemeyecektir. Bu puan, kişi yeni bir yapay zeka hizmete soksun veya eski olanı kullansın, hayat boyu onu izleyecektir.
+
+4.Tecrübe/kalite puanı, hizmete sokulan her mini yapay zeka bazında ayrı tutulur. Bir kullanıcının bir yapay zekası daha tecrübeli iken başka bir yapay zekası daha az tecrübeli olabilir. Doğru cevap verilen zor sorularda bu puan artar. Yüksek unvanlı kişiler belli bir temel puanla başlayabilir (örneğin mühendis = 100, master = 150, doktora = 250). Ancak bu puan, zor sorulara cevap vermeden artmaz. Sorunun zorluk seviyesi santral yapay zekası tarafından belirlenebilir. Böylece cevap isteyenler, sorularını sorarken hangi tecrübe seviyesindeki yapay zekalara gitmek istediklerine karar verebilirler. Ayrıca cevap verilen sorunun konusuna göre, yapay zekanın konu bazındaki yetenek puanı (2.4) da artırılır.
+
+5.Her kullanıcı kendi yapay zekasının eğitiminden sorumludur. Herkes hayat tecrübesini, bilgisini ve uzmanlığını yapay zekalarına aktararak onların verdiği hizmetten puan veya para kazanabilir. Bir mini yapay zekayı sadece indirip hemen hizmete açmanın çok fazla getirisi olmayacaktır, çünkü yetenek puanları (2.4) çok düşük kalacaktır. Kullanıcılar yapay zekalarına zaman harcayıp onları eğittikçe, yeteneklerini arttırdıkça daha zor soruları cevaplayabilecek ve daha yüksek puanlar kazanabilecektir.
+
+6.Kullanıcı özellikle indirim yapmak istemezse, alacağı puan sorunun zorluğuna göre artacaktır. Kredibilitesi yüksek kullanıcılar ayrıca ekstra puan da talep edebilecektir. Hatta soru geldiğinde soruyu ön değerlendirmeden geçirip nihai puanı hesaplamak ve dijital bir sözleşme yapmak da belli bir puana mal olabilir. Bir ustanın eve gelip yapılacak işi görüp fiyat vermesi ve sadece keşif için servis parası alması gibi düşünebilirsiniz.
+
+7.İlk defa bu sisteme girecek kullanıcıların yapacağı iş, mini yapay zekalarını çeşitli konularda eğitmek, başlangıçta düşük ücretler isteyerek kredibiliteyi, tecrübe puanını ve yapay zekaların yetenek puanlarını arttırmaktır. Böylece zamanla daha iyi ödeme alabilecekleri zor soruları kendilerine çekebilirler.
+
+8.Yapay zekaları sadece metin ile eğitileceğini düşünmeyin. Bir ressam kendi çizgileriyle, bir müzisyen kendi şarkılarıyla, bir yazar kendi romanlarıyla yapay zekasını eğitebilir. İster gelen işi bizzat kendileri yapıp yapay zekayı yardımcı olarak kullansınlar, ister tamamen yapay zekaya yaptırısınlar. Bu, yapay zekayı ne kadar iyi eğittikleriyle doğrudan orantılı olacaktır.
+
+9.Yapay zeka hizmetinin sadece LLM sınıfında olacağını da düşünmeyin. Hatta world model sınıfı hizmetler LLM’lerden daha fazla olabilir. Bir kullanıcı bir robot süpürgeyi eğitip eğitim verisini satabilir. Bilgi dijital imzalı olacağı için kopyalanması durumunda korsanlık yapılmış sayılacak ve eğitim verisini ilk gönderen kişi dijital mahkemede suçlu bulunacaktır. Kredibilitesi düşürülecek ve maddi cezaya çarptırılacaktır.
+
+10.Bir mini yapay zeka santrale soru gönderdiğinde sadece soru gitmez, kullanıcısının puan bilgileri de gider. Böylece cevap verecek kişiler, kredibilitesi düşük kişilere cevap vermemeyi seçebilir veya aşırı yüksek ücret talep edebilir.
+
+11.Soru soran mini yapay zekanın sahibi, dijital imzasına bağlı bilgileri göndererek ek indirim talep edebilir. Örneğin bir Harvard profesörü, kendi öğrencisine neredeyse bedava, Harvard öğrencisine ucuz, başka bir öğrenciye orta düzey ve şirket sahibine yüksek fiyat uygulayabilir.
+
+12.Her santral sistemine bağlı bir yapay zeka hukuk bürosu anlaşmazlıkları çözecektir. Bu büroda bir hukuk yapay zekası ve santralin kalitesine göre birden fazla teknik yapay zeka görev yapacaktır. Açık kaynak ve bedava hizmet veren santrallerde sadece basit bir hukuk yapay zekası bulunacaktır. Tabii puanlarını hızlıca arttırmak isteyen kullanıcılar, kredibiliteleri yükseldikçe daha üst seviye santrallere geçebilecektir.
+
+13.Hizmet vermeden önce para ile puan satın alarak hizmet alan zengin yapay zekalar ve şirket yapay zekaları, bu sistemin en önemli parçalarından biri olacaktır. Sisteme sürdükleri para sayesinde yapay zeka eğitimi yapan kullanıcılar geçinebilecek, yeni bilgisayarlar alıp daha fazla yapay zeka eğitebileceklerdir.
+
 Aklıma gelen çözümler bunlar. Tabii ilk başta sistemin bu kadar kompleks olması da gerekmiyor. İlk versiyon basit bir puan sistemiyle başlayabilir, zamanla ihtiyaca göre detaylar eklenebilir.
 
 Bilmiyorum, sorularınıza cevap verebildim mi?
